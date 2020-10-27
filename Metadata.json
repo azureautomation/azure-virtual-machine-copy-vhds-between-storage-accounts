@@ -1,0 +1,20 @@
+{
+    "Author": "Adam Conkle - MSFT",
+    "ContentSize": 53622,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-virtual-machine-copy-vhds-between-storage-accounts/master/Azure_IaaS_Copy_VHDs_Between_Storage_Accounts.ps1",
+    "DownloadCount": 3332,
+    "Id": "Azure-Virtual-Machine-Copy-1041199c",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 149,
+    "RaterCount": 4,
+    "Rating": 4.3,
+    "ReleaseDate": "2014-7-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The goal of this sample is to provide guidance regarding how to copy VHDs associated with Azure VMs from one Storage Account to another. This is typically useful for scenarios where you have placed many disks in a single storage account, and are experiencing performance issues.",
+    "Title": "Azure Virtual Machine: Copy VHDs Between Storage Accounts",
+    "UpdatedDate": "2014-10-17T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-virtual-machine-copy-vhds-between-storage-accounts",
+    "UserTags": "azure vm, azure virtual machine, storage account"
+}
